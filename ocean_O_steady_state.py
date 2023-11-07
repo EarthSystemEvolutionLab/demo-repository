@@ -29,6 +29,8 @@ font = {'family' : 'sans-serif',
 
 ##NOW ADDING A LINE IN THE ORGANIZATION REPO, TO PULL TO PERSONAL ONE###
 
+#BEN EDIT NOV 7##
+
 matplotlib.rc('font', **font)
 #%% ------ Script after Gregory, 1991 to test the steady state of ocean d18O values 
 #          based on changing a number of different exchange rates, and allowing high
